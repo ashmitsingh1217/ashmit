@@ -1,2 +1,3 @@
 # ashmit
 This is my first repository...
+Author : ashmit singh
